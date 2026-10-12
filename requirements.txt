@@ -1,0 +1,10 @@
+streamlit
+beautifulsoup4
+lxml
+scikit-learn
+scipy
+numpy
+pandas
+httpx
+# optional, better paragraph matching (downloads a ~90MB model on first use):
+# sentence-transformers
